@@ -27,13 +27,13 @@ A complete **Blog Management System** using **PHP + MySQL**, featuring authentic
 ---
 
 ## 🧱 Technologies Used
-| Layer | Tools |
-|-------|-------|
-| **Frontend** | HTML · CSS · JavaScript |
-| **Backend** | PHP (Procedural) |
-| **Database** | MySQL (XAMPP) |
-| **Mailer** | PHPMailer (via Composer) |
-| **Server** | Apache |
+| Layer        | Tools                    |
+|--------------|--------------------------|
+| **Frontend** | HTML · CSS · JavaScript  |
+| **Backend**  | PHP (Procedural)         |
+| **Database** | MySQL (XAMPP)            |
+| **Mailer**   | PHPMailer (via Composer) |
+| **Server**   | Apache                   |
 
 ---
 
